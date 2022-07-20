@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://www.upwork.com/freelancers/~0140a68caa7a5b5fd6
--     radoslav@bluelineteam.com
 
 <!---
 radoslavboychev/radoslavboychev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
